@@ -1,0 +1,1 @@
+print("D\nS\nW\n0\n1\nA\n1")
