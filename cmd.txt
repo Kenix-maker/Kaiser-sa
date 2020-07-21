@@ -1,0 +1,10 @@
+Change Admin Password:
+net user
+net user [admin username]
+net user [admin username] *
+net user [admin username] [new password]
+
+Reveal Wifi Password:
+netsh
+wlan show profiles
+wlan show profiles [wifi network] key=clear
