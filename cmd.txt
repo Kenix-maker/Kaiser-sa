@@ -10,6 +10,5 @@ wlan show profiles
 wlan show profiles [wifi network] key=clear
 
 Hack Wifi:
-
 netsh wlan show network mode=bssid
 netsh wlan connect name=[wifi network]
